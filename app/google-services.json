@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393424951265",
+    "firebase_url": "https://eventify-d6616.firebaseio.com",
+    "project_id": "eventify-d6616",
+    "storage_bucket": "eventify-d6616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393424951265:android:bf9184b6eeb2502d",
+        "android_client_info": {
+          "package_name": "com.app.eventify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393424951265-smmejb7euc0lthnr1cq21e211eemnad8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.eventify",
+            "certificate_hash": "c5ce9759486176faf61bfe74cdb1fd0084ea1f35"
+          }
+        },
+        {
+          "client_id": "393424951265-arlcq6vt158ochd57pueqmj311mclfu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFi4yAv5ztWw2Zr11tOG9rj9uzIGqkZZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393424951265-arlcq6vt158ochd57pueqmj311mclfu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
